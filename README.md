@@ -23,23 +23,19 @@ Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineer undergraduate
 
 ## 📊 GitHub Stats
 
-![Total Commits](https://komarev.com/ghpvc/?username=yourusername&label=Total%20Commits&color=blue&style=for-the-badge)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1CTIAN&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1CTIAN&layout=compact&theme=tokyonight)
 
 ## 📌 Featured Projects
 
-- 🔗 [Project 1](https://github.com/yourusername/project1) - Brief description of the project.
-- 🔗 [Project 2](https://github.com/yourusername/project2) - Brief description of the project.
-- 🔗 [Project 3](https://github.com/yourusername/project3) - Brief description of the project.
+- 🔗 [Zenith Discord Bot Project](https://github.com/M1CTIAN/Zenith) - Zenith is a versatile AI-powered Discord bot built with Discord.js that leverages advanced language models and image generation capabilities. The bot uses DeepSeek-R1-Distill-Qwen-32B for intelligent text responses and Stable Diffusion XL for high-quality image generation.
+- 🔗 [IIIT Bhopal Website Project](https://iiitbhopal-website.vercel.app/) - This project is a web development initiative for the Indian Institute of Information Technology (IIIT) Bhopal. The website aims to provide a comprehensive online presence for the institute, offering information and updates to students, faculty, and visitors.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-raj-52965a25a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raj.arpit140@gmail.com)
 
 ---
 
 ⭐️ **"Code, Create, Innovate."**
-
