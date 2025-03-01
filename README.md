@@ -1,8 +1,10 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineer undergraduate who loves building innovative solutions and learning new technologies.
+Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineering undergraduate who loves building innovative solutions and learning new technologies.
 
 ## 🧰 Tech Stack
+
+<div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -21,10 +23,16 @@ Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineer undergraduate
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+</div>
+
 ## 📊 GitHub Stats
+
+<div align="center">
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1CTIAN&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1CTIAN&layout=compact&theme=tokyonight)
+
+</div>
 
 ## 📌 Featured Projects
 
@@ -33,9 +41,18 @@ Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineer undergraduate
 
 ## 📫 Connect with Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-raj-52965a25a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raj.arpit140@gmail.com)
 
+</div>
+
 ---
 
+<div align="center">
+
 ⭐️ **"Code, Create, Innovate."**
+
+</div>
+
