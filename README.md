@@ -51,8 +51,8 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [Zenith Discord Bot Project](https://github.com/M1CTIAN/Zenith) - A versatile AI-powered Discord bot using advanced language models and image generation capabilities.
 - 🔗 [IIIT Bhopal Website Project](https://iiitbhopal-website.vercel.app/) - An official web presence for the Indian Institute of Information Technology, Bhopal.
+- 🔗 [Zenith Discord Bot Project](https://github.com/M1CTIAN/Zenith) - A versatile AI-powered Discord bot using advanced language models and image generation capabilities.
 
 ---
 
