@@ -1,6 +1,13 @@
-# Hi there! 👋
+# 🌟 Welcome! I'm Arpit Raj 👋
 
-Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineering undergraduate who loves building innovative solutions and learning new technologies.
+<div align="center" style="font-family: 'Arial', sans-serif;">
+
+🎓 **B.Tech Undergraduate** at the **Indian Institute of Information Technology, Bhopal (2026)**  
+💻 Passionate about **building innovative solutions** and **exploring cutting-edge technologies**  
+
+</div>
+
+---
 
 ## 🧰 Tech Stack
 
@@ -25,6 +32,8 @@ Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineering undergradu
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -38,10 +47,14 @@ Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineering undergradu
 
 </div>
 
+---
+
 ## 📌 Featured Projects
 
-- 🔗 [Zenith Discord Bot Project](https://github.com/M1CTIAN/Zenith) - Zenith is a versatile AI-powered Discord bot built with Discord.js that leverages advanced language models and image generation capabilities. The bot uses DeepSeek-R1-Distill-Qwen-32B for intelligent text responses and Stable Diffusion XL for high-quality image generation.
-- 🔗 [IIIT Bhopal Website Project](https://iiitbhopal-website.vercel.app/) - This project is a web development initiative for the Indian Institute of Information Technology (IIIT) Bhopal. The website aims to provide a comprehensive online presence for the institute, offering information and updates to students, faculty, and visitors.
+- 🔗 [Zenith Discord Bot Project](https://github.com/M1CTIAN/Zenith) - A versatile AI-powered Discord bot using advanced language models and image generation capabilities.
+- 🔗 [IIIT Bhopal Website Project](https://iiitbhopal-website.vercel.app/) - An official web presence for the Indian Institute of Information Technology, Bhopal.
+
+---
 
 ## 📫 Connect with Me
 
@@ -59,3 +72,4 @@ Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineering undergradu
 ⭐️ **"Code, Create, Innovate."**
 
 </div>
+
