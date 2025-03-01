@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1CTIAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Arpit%20Raj%27s%20GitHub%20Stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1CTIAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1CTIAN&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=M1CTIAN&theme=tokyonight)
@@ -51,8 +51,8 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [IIIT Bhopal Website Project](https://iiitbhopal-website.vercel.app/) - An official web presence for the Indian Institute of Information Technology, Bhopal.
 - 🔗 [Zenith Discord Bot Project](https://github.com/M1CTIAN/Zenith) - A versatile AI-powered Discord bot using advanced language models and image generation capabilities.
+- 🔗 [IIIT Bhopal Website Project](https://iiitbhopal-website.vercel.app/) - An official web presence for the Indian Institute of Information Technology, Bhopal.
 
 ---
 
