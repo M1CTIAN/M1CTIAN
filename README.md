@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm Arpit Raj, a passionate engineering undergradu
 <div align="center">
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1CTIAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1CTIAN&layout=compact&theme=tokyonight)
 
 </div>
