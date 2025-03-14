@@ -37,7 +37,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=M1CTIAN&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=M1CTIAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Your GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1CTIAN&layout=compact&theme=tokyonight" alt="Top Languages">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=M1CTIAN&theme=tokyonight" alt="GitHub Streak">
