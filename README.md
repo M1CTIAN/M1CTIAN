@@ -1,77 +1,102 @@
-<h1>🌟 Welcome! I'm Arpit Raj 👋</h1>
-
-<div align="center" style="font-family: 'Arial', sans-serif;">
-
-<p>🎓 <strong>B.Tech Undergraduate</strong> at the <strong>Indian Institute of Information Technology, Bhopal (2026)</strong><br>
-💻 Passionate about <strong>building innovative solutions</strong> and <strong>exploring cutting-edge technologies</strong></p>
-
-</div>
-
-<hr>
-
-<h2>🧰 Tech Stack</h2>
+# Hello World! I'm Arpit Raj 👋
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+🎓 **B.Tech Undergraduate** at **Indian Institute of Information Technology, Bhopal (2026)**  
+💻 Software Developer passionate about **building innovative solutions** and **exploring cutting-edge technologies**
 
 </div>
 
-<hr>
+---
 
-<h2>📊 GitHub Stats</h2>
+## 🚀 About Me
+
+I'm a tech enthusiast and problem solver with a focus on full-stack development. My journey in software development is driven by curiosity and the desire to create impactful solutions that make a difference.
+
+- 🔭 Currently working on advanced web applications and AI-powered tools
+- 🌱 Learning cloud architecture and system design
+- 👯 Open to collaborate on open-source projects and innovative ideas
+- 💬 Ask me about JavaScript, React, Next.js, or anything tech-related!
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=M1CTIAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Your GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1CTIAN&layout=compact&theme=tokyonight" alt="Top Languages">
-  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M1CTIAN&theme=tokyonight" alt="GitHub Streak" /></a>
-<img src="https://github-profile-trophy.vercel.app/?username=M1CTIAN&theme=radical&no-frame=true&column=2&row=2" alt="GitHub Detailed Stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M1CTIAN&theme=radical" alt="GitHub Contribution Graph">
-
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" alt="Next UI" title="Next UI"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/atom.png" alt="Atom" title="Atom"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB"/>
 </div>
 
-<hr>
 
-<h2>📌 Featured Projects</h2>
+---
 
-<ul>
-  <li>🔗 <a href="https://iiitbhopal-website.vercel.app/">IIIT Bhopal Website Project</a> - An official web presence for the Indian Institute of Information Technology, Bhopal.</li>
-  <li>🔗 <a href="https://github.com/M1CTIAN/Zenith">Zenith Discord Bot Project</a> - A versatile AI-powered Discord bot using advanced language models and image generation capabilities.</li>
-</ul>
-
-<hr>
-
-<h2>📫 Connect with Me</h2>
+## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/arpit-raj-52965a25a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:raj.arpit140@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=M1CTIAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1CTIAN&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
-<hr>
 
 <div align="center">
-
-<p>⭐️ <strong>"Code, Create, Innovate."</strong></p>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1CTIAN&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M1CTIAN&theme=radical" alt="Contribution Graph" />
 </div>
 
+---
+
+## 💻 Featured Projects
+
+### [IIIT Bhopal Website](https://iiitbhopal-website.vercel.app/) 🏫
+An official web presence for the Indian Institute of Information Technology, Bhopal with modern UI and comprehensive information architecture.
+
+**Tech Stack**: Next.js, Tailwind CSS, Node.js
+
+### [Zenith Discord Bot](https://github.com/M1CTIAN/Zenith) 🤖
+A versatile AI-powered Discord bot utilizing advanced language models and image generation capabilities to enhance server interactions.
+
+**Tech Stack**: Python, Discord.js, OpenAI API
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arpit-raj-52965a25a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:raj.arpit140@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- Add your other social profiles here -->
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=M1CTIAN&style=flat-square&color=blue" alt="Profile views" />
+  <p>⭐️ <strong>"Code. Create. Innovate."</strong> ⭐️</p>
+</div>
