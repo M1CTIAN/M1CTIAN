@@ -7,9 +7,10 @@
 
 </div>
 
----
 
-## 🚀 About Me
+# 🚀 About Me
+
+<img align="right" alt="Coding" height="250" width="230" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952nkp0uxgwf5y0gvr2run9tu8zdcaeo5s7h2nomel2&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 I'm a tech enthusiast and problem solver with a focus on full-stack development. My journey in software development is driven by curiosity and the desire to create impactful solutions that make a difference.
 
@@ -18,7 +19,9 @@ I'm a tech enthusiast and problem solver with a focus on full-stack development.
 - 👯 Open to collaborate on open-source projects and innovative ideas
 - 💬 Ask me about JavaScript, React, Next.js, or anything tech-related!
 
----
+
+<br/>
+
 
 ## 🧰 Tech Stack
 
@@ -67,7 +70,7 @@ A versatile AI-powered Discord bot utilizing advanced language models and image 
 
 **Tech Stack**: Python, Discord.js, OpenAI API
 
----
+
 
 ## 📫 Let's Connect
 
@@ -76,8 +79,6 @@ A versatile AI-powered Discord bot utilizing advanced language models and image 
   <a href="mailto:raj.arpit140@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Add your other social profiles here -->
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=M1CTIAN&style=flat-square&color=blue" alt="Profile views" />
