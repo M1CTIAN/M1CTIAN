@@ -39,8 +39,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=M1CTIAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Your GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1CTIAN&layout=compact&theme=tokyonight" alt="Top Languages">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=M1CTIAN&theme=tokyonight" alt="GitHub Streak">
+  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M1CTIAN&theme=tokyonight" alt="GitHub Streak" /></a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=M1CTIAN&theme=radical&no-frame=true&column=2&row=2" alt="GitHub Detailed Stats">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M1CTIAN&theme=radical" alt="GitHub Contribution Graph">
