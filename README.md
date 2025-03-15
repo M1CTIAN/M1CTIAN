@@ -1,4 +1,4 @@
-# Hello World! I'm Arpit Raj 👋
+# I'm Arpit Raj 👋
 
 <div align="center">
 
