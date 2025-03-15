@@ -1,4 +1,4 @@
-# I'm Arpit Raj 👋
+# Hi!, I'm Arpit Raj 👋
 
 <div align="center">
 
@@ -54,24 +54,6 @@ I'm a tech enthusiast and problem solver with a focus on full-stack development.
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB"/>
 </div>
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=M1CTIAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Your GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1CTIAN&layout=compact&theme=tokyonight" alt="Top Languages">
-  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M1CTIAN&theme=tokyonight" alt="GitHub Streak" /></a>
-<img src="https://github-profile-trophy.vercel.app/?username=M1CTIAN&theme=radical&no-frame=true&column=2&row=2" alt="GitHub Detailed Stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M1CTIAN&theme=radical" alt="GitHub Contribution Graph">
-
-</div>
-
----
 
 ## 💻 Featured Projects
 
