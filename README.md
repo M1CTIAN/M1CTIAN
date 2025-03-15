@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" height="250" width="230" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952nkp0uxgwf5y0gvr2run9tu8zdcaeo5s7h2nomel2&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
-I'm a tech enthusiast and problem solver with a focus on full-stack development. My journey in software development is driven by curiosity and the desire to create impactful solutions that make a 
+My journey in software development is driven by curiosity and the desire to create impactful solutions that make a 
 difference.
 
 - 🔭 Currently working on advanced web applications and AI-powered tools
