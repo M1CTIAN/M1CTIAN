@@ -7,7 +7,6 @@
 
 </div>
 
-
 # 🚀 About Me
 
 <img align="right" alt="Coding" height="250" width="230" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952nkp0uxgwf5y0gvr2run9tu8zdcaeo5s7h2nomel2&ep=v1_gifs_search&rid=200w.gif&ct=g">
