@@ -61,7 +61,7 @@ difference.
 
 ## 💻 Featured Projects
 
-### [IIIT Bhopal Website](https://iiitbhopal-website.vercel.app/) 🏫
+### [IIIT Bhopal Website](https://www.iiitbhopal.site/) 🏫
 An official web presence for the Indian Institute of Information Technology, Bhopal with modern UI and comprehensive information architecture.
 
 **Tech Stack**: Next.js, Tailwind CSS, Node.js
