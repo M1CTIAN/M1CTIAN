@@ -68,11 +68,15 @@ An official web presence for the Indian Institute of Information Technology, Bho
 
 **Tech Stack**: Next.js, Tailwind CSS, Node.js
 
+### [My Portfolio](https://github.com/M1CTIAN/portfolio) 🧑
+This is my portfolio.
+
+**Tech Stack**: Next.js, Tailwind CSS, Node.js
+
 ### [Zenith Discord Bot](https://github.com/M1CTIAN/Zenith) 🤖
 A versatile AI-powered Discord bot utilizing advanced language models and image generation capabilities to enhance server interactions.
 
 **Tech Stack**: Python, Discord.js, OpenAI API
-
 
 
 ## 📫 Let's Connect
