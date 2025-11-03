@@ -79,6 +79,8 @@ A versatile AI-powered Discord bot utilizing advanced language models and image 
 **Tech Stack**: Python, Discord.js, OpenAI API
 
 
+[![An image of @m1ctian's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/m1ctian)](https://holopin.io/@m1ctian)
+
 ## 📫 Let's Connect
 
 <div align="center">
